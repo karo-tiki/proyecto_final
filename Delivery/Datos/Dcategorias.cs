@@ -30,16 +30,8 @@ namespace Delivery.Datos
             Color1="#ffffff",
            Color2="#ffffff",
             Select=false
-          },
-          new Mcategorias()
-          {
-          categoria="Bebidas",
-          icono="https://i.ibb.co/dLjhKHc/burguer.png",
-          Textcolor="#2F394B",
-          Color1="#ffffff",
-           Color2="#ffffff",
-           Select=false
-          },
+          }
+         
 
         };
       }
