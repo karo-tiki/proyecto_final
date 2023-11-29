@@ -13,12 +13,8 @@ namespace Delivery.Modelo
     //objetos
     string _color1;
     string _color2;
-    string _color3;
-    string _color4;
 
-
-
-        string _textcolor;
+    string _textcolor;
     bool _select;
     public bool Select
       {
