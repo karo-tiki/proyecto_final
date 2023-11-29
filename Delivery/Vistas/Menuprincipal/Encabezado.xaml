@@ -84,10 +84,7 @@
                                                       Offset="0.5" />
                                         <GradientStop Color="{Binding Color2}"
                                                       Offset="1.0" />
-                                        <GradientStop Color="{Binding Color3}"
-                                                      Offset="1.5" />
-                                        <GradientStop Color="{Binding Color4}"
-                                                      Offset="2.0" />
+                                        
                                     </LinearGradientBrush>
                                 </Frame.Background>
                                 <StackLayout>
