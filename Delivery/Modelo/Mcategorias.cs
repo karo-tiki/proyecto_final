@@ -35,12 +35,6 @@ namespace Delivery.Modelo
       get { return _color2; }
       set { SetValue(ref _color2,value); }
       }
-    public string Color3
-    {
-       get { return _color3; }
-       set { SetValue(ref _color3, value); }
-    }
-
 
         public string Textcolor
       {
