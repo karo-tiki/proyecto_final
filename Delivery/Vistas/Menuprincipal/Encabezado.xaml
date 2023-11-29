@@ -34,7 +34,7 @@
                     <Image Source="https://i.ibb.co/tbZGtSV/lupa.png"
                            HeightRequest="22"
                            Margin="6,0,0,0" />
-                    <Label Text="Buscar..."
+                    <Entry Placeholder="Buscar..."
                            VerticalOptions="Center"
                            TextColor="#D1D4DF"
                            FontAttributes="Bold"
