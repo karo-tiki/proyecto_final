@@ -15,7 +15,7 @@ namespace Delivery.Datos
         {
         new Mcategorias()
           {
-          categoria="Caliente",
+          categoria="Infantil",
           icono="https://i.ibb.co/dLjhKHc/burguer.png",
           Textcolor="#2F394B",
           Color1="#ffffff",
@@ -24,7 +24,7 @@ namespace Delivery.Datos
           },
           new Mcategorias()
           {
-          categoria="Frío",
+          categoria="Adulto",
           icono="https://i.ibb.co/HCwvTn8/rosquilla.png",
           Textcolor="#2F394B",
             Color1="#ffffff",
