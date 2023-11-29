@@ -15,7 +15,7 @@ namespace Delivery.Datos
         {
         new Mcategorias()
           {
-          categoria="Burguer",
+          categoria="Caliente",
           icono="https://i.ibb.co/dLjhKHc/burguer.png",
           Textcolor="#2F394B",
           Color1="#ffffff",
@@ -24,7 +24,7 @@ namespace Delivery.Datos
           },
           new Mcategorias()
           {
-          categoria="Donas",
+          categoria="Frío",
           icono="https://i.ibb.co/HCwvTn8/rosquilla.png",
           Textcolor="#2F394B",
             Color1="#ffffff",
@@ -33,22 +33,14 @@ namespace Delivery.Datos
           },
           new Mcategorias()
           {
-          categoria="Burguer",
+          categoria="Bebidas",
           icono="https://i.ibb.co/dLjhKHc/burguer.png",
           Textcolor="#2F394B",
           Color1="#ffffff",
            Color2="#ffffff",
            Select=false
           },
-          new Mcategorias()
-          {
-          categoria="Burguer",
-          icono="https://i.ibb.co/dLjhKHc/burguer.png",
-          Textcolor="#2F394B",
-          Color1="#ffffff",
-           Color2="#ffffff",
-           Select=false
-          }
+
         };
       }
     }
